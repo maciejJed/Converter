@@ -13,10 +13,10 @@ import java.io.FileReader;
  * Created by macx on 15.09.16.
  */
 public class ConverterTest {
-    
+
     @Test
     public void testConverterOutputCorrect() throws Exception{
-        String result = "xxx";
-        Assert.assertEquals(result, "xxx");
+        String result = "xxx2";
+        Assert.assertEquals(result, "xxx2");
     }
 }
