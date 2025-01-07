@@ -16,7 +16,7 @@ public class ConverterTest {
 
     @Test
     public void testConverterOutputCorrect() throws Exception{
-        String result = "xxx2";
-        Assert.assertEquals(result, "xxx2");
+        String result = "xxx3";
+        Assert.assertEquals(result, "xxx3");
     }
 }
